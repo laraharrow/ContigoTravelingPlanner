@@ -1,0 +1,24 @@
+{
+  "name": "ContigoTravelingPlanner",
+  "version": "1.0.0",
+  "description": "Plan a group trip",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laraismael1/ContigoTravelingPlanner.git"
+  },
+  "keywords": [],
+  "author": "Lara Ismael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laraismael1/ContigoTravelingPlanner/issues"
+  },
+  "homepage": "https://github.com/laraismael1/ContigoTravelingPlanner#readme",
+  "devDependencies": {
+    "webpack": "^4.6.0"
+  }
+}

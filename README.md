@@ -4,7 +4,7 @@
 
 ###### - Store trip details
 
-###### - Chat wiht the people involved in ###### - the trip
+###### - Chat wiht the people involved in the trip
 
 ###### - Learn from friends that have been
 
